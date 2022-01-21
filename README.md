@@ -5,6 +5,7 @@ Git and Git Flow Cheat Sheet [![Awesome](https://cdn.rawgit.com/sindresorhus/awe
     <img alt="Git" src="./Img/git-logo.png" height="190" width="455">
 </p>
 <hr>
+### Emalee's Personal Copy
 
 # Other Available Languages:
 
